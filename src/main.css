@@ -1,0 +1,14 @@
+.s1 {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.s1 button {
+  padding: 10px;
+  margin: 10px;
+}
+.s1 span {
+  font-size: 44px;
+  font-weight: bold;
+}
